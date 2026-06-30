@@ -14,7 +14,7 @@ Add screenshots here before publishing
 ![Duty Log List](./screenshots/list.png)
 ![Export](./screenshots/export.png)
 
----
+--
 
 ## ✨ Features
 
