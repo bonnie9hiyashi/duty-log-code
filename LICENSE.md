@@ -1,6 +1,6 @@
 # Single-Use Commercial License
 
-Copyright (c) 2026 [ใส่ชื่อคุณ/แบรนด์ของคุณ]
+Copyright (c) 2026 Bonnie Hiyashi
 
 This Source Code ("the Product") is licensed, not sold. By purchasing and/or using this Product, you ("the Licensee") agree to the following terms:
 
@@ -41,4 +41,4 @@ Support terms (if any) are as specified at the point of purchase and are not gua
 
 ---
 
-For licensing questions or additional project licenses, contact: [ใส่อีเมล/ช่องทางติดต่อของคุณ]
+For licensing questions or additional project licenses, contact: bonnie.9hiyashi@gmail.com
