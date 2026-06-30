@@ -82,4 +82,8 @@ This template is sold under a **Single-Use Commercial License**. See `LICENSE.md
 
 ## 💬 Support
 
-Questions about setup or customization? [Add your contact/support info here]
+Questions about setup or customization? 
+contact: bonnie.9hiyashi@gmail.com
+
+---
+Created by **Bonnie Hiyashi**
