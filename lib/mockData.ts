@@ -1,10 +1,15 @@
 import { User, DutyLog, Comment } from '../types';
 
+// ⚠️ DEMO DATA ONLY — DO NOT USE IN PRODUCTION
+// These accounts and passwords are placeholders for local development/demo purposes.
+// Before deploying, replace this mock data with a real backend, real user accounts,
+// and proper password hashing (e.g. bcrypt). Never store plain-text passwords in production.
+
 export const mockUsers: User[] = [
   {
     id: '1',
     username: 'admin',
-    password: 'admin123',
+    password: 'CHANGE_ME_admin',
     role: 'admin',
     fullName: 'Admin User',
     email: 'admin@hotel.com',
@@ -13,7 +18,7 @@ export const mockUsers: User[] = [
   {
     id: '2',
     username: 'manager',
-    password: 'manager123',
+    password: 'CHANGE_ME_manager',
     role: 'manager',
     fullName: 'Manager User',
     email: 'manager@hotel.com',
@@ -22,7 +27,7 @@ export const mockUsers: User[] = [
   {
     id: '3',
     username: 'staff1',
-    password: 'staff123',
+    password: 'CHANGE_ME_staff',
     role: 'staff',
     fullName: 'John Smith',
     email: 'john@hotel.com',
@@ -31,7 +36,7 @@ export const mockUsers: User[] = [
   {
     id: '4',
     username: 'staff2',
-    password: 'staff123',
+    password: 'CHANGE_ME_staff',
     role: 'staff',
     fullName: 'Sarah Johnson',
     email: 'sarah@hotel.com',
