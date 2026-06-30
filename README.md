@@ -10,9 +10,9 @@ A clean, modern frontend template for hotel duty log / daily report systems. Bui
 
 Add screenshots here before publishing
 ![Login](./screenshots/login.png)
-![Duty Log Form](./screenshots/form.png)
-![Duty Log List](./screenshots/list.png)
-![Export](./screenshots/export.png)
+![Duty Log Form](./screenshots/create-form.png)
+![Duty Log List](./screenshots/logs-list.png)
+![Export](./screenshots/user-management.png)
 
 --
 
